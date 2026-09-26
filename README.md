@@ -1,4 +1,5 @@
 # Simple Calculator
+
 A beginner-friendly calculator application built using Python.
 
 ## Features
@@ -21,11 +22,12 @@ A beginner-friendly calculator application built using Python.
 3. Open the terminal.
 4. Run:
 
-```bash
-python calculator.py
+    python calculator.py
 
-Example
+## Example
+
 Enter first number: 10
 Enter operator (+, -, *, /): *
 Enter second number: 5
+
 Result: 50.0
